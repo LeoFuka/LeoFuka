@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoFuka
 - 👀 I’m interested in study, learn and understand
-- 🌱 I’m currently learning Data Analysis At EBAC
+- 🌱 I’m currently learning Data Analysis at EBAC
 - 🦉 I have some knowledge with Python, SQL, Microsoft Office and PowerBI 
 - 📫 How to reach me: e-mail leonardo_fukuhara@hotmail.com
 - 😄 Pronouns: he/him
